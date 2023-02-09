@@ -101,4 +101,7 @@ main{
     box-shadow: -2px 3px 0 #222, -4px 6px 0 #000;
   }
   
-  
+  .button:active{
+    box-shadow: -2px 3px 0 #222, -4px 6px 0 #000;
+    font-size: 0.9rem;
+  }
